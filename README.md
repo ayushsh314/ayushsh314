@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Implementing a conversational AI agent and integrating it with a custom implemented graph database as a knowledge source.**
 
-- About me! **test**
+<h1 align="center">About me and my work!</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
