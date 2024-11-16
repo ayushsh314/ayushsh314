@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Ayush</h1>
 <h3 align="center">A budding AI engineer and Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsh314&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsh314" /> </p>
-
 - 🔭 I’m currently working on **Implementing a conversational AI agent and integrating it with a custom implemented graph database as a knowledge source.**
 
 <h1 align="center">About me and my work!</h1>
