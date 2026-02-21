@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Ayush</h1>
 <h3 align="center">A budding AI engineer and Data Scientist</h3>
 
-- 🔭 I’m currently working on **Implementing a conversational AI agent and integrating it with a custom implemented graph database as a knowledge source.**
 
 <h1 align="center">About me and my work!</h1>
 
