@@ -1,13 +1,43 @@
-<h1 align="center">Hello, I'm Ayush</h1>
-<h3 align="center">A budding AI engineer and Data Scientist</h3>
+# Ayush Sharma
 
+Graduate student in AI at Northeastern University. Boston, MA.
 
-<h1 align="center">About me and my work!</h1>
+I work on retrieval systems, graph databases, and applied machine learning —
+mostly on the question of how to get language models to reason over structured
+knowledge instead of guessing at it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-sharma-2666a1196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-sharma-2666a1196/" height="30" width="40" /></a>
-</p>
+### Selected work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**[Graph-RAG Research Assistant](https://github.com/ayushsh314/Graph-RAG---Research-Assistant)**
+A GraphRAG system built on LlamaIndex for knowledge traversal across research
+corpora. Neo4j as the graph store, Qwen 2.5 for prompt handling.
+
+**[MarketRight](https://github.com/ayushsh314/Market-Right)**
+Turns scattershot marketing into targeted campaigns by scoring prospects on
+their probability of becoming long-term clients.
+
+**[Advisor & Responder Prediction](https://github.com/ayushsh314/purple-advisors-responders-prediction)**
+Lead-generation MVP for a US-based startup — ranking prospective clients from
+company-specific signals.
+
+**[PINNs for PDEs](https://github.com/ayushsh314/PINN_using_PDEs)**
+A physics-informed neural network framework for solving higher-order
+differential equations.
+
+**[Crime Scene Analysis](https://github.com/ayushsh314/Crime-Scene-Analysis)**
+Visual analysis of crime scenes with generated textual headlines for news
+agencies and forensics teams. Code and published paper.
+
+**[Slip Analysis](https://github.com/ayushsh314/Slip-Analysis)**
+Linear regression with SGD to model no-slip, first-order, and second-order
+slip conditions in fluid flow.
+
+### Tools
+
+Python, PyTorch, TensorFlow, scikit-learn, pandas, OpenCV · Neo4j, MongoDB,
+MySQL · Docker, GCP, Linux, Git · C, C++, Java
+
+### Elsewhere
+
+[Portfolio](https://ayushsh314.github.io) ·
+[LinkedIn](https://linkedin.com/in/ayush-sharma-2666a1196/)
