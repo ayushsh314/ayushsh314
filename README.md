@@ -16,21 +16,15 @@ corpora. Neo4j as the graph store, Qwen 2.5 for prompt handling.
 Turns scattershot marketing into targeted campaigns by scoring prospects on
 their probability of becoming long-term clients.
 
-**[Advisor & Responder Prediction](https://github.com/ayushsh314/purple-advisors-responders-prediction)**
-Lead-generation MVP for a US-based startup — ranking prospective clients from
-company-specific signals.
-
-**[PINNs for PDEs](https://github.com/ayushsh314/PINN_using_PDEs)**
+**[PINNs for PDEs](https://drive.google.com/drive/folders/1lkVaDIYXS9EXVfLQNqov4ZE7mqrU8Bhk)**
 A physics-informed neural network framework for solving higher-order
 differential equations.
 
-**[Crime Scene Analysis](https://github.com/ayushsh314/Crime-Scene-Analysis)**
-Visual analysis of crime scenes with generated textual headlines for news
-agencies and forensics teams. Code and published paper.
-
-**[Slip Analysis](https://github.com/ayushsh314/Slip-Analysis)**
-Linear regression with SGD to model no-slip, first-order, and second-order
-slip conditions in fluid flow.
+**[FlowMind](https://github.com/PurvajaNarayan/FlowMind)** *(primary contributor)*
+Multi-agent flowchart understanding, QA, and code synthesis on FlowVQA. A
+Reader → Router → {Graph tool | Examiner | Planner} pipeline that reads a
+flowchart and routes each question by intent, with a deterministic graph lane
+for topological questions and a Qwen3-VL vision Reader.
 
 ### Tools
 
